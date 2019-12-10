@@ -116,3 +116,6 @@ heroku open
 ```
 
 This will open up our browser and take us to our newly deployed Heroku project!
+
+# react-store
+react redux based store
